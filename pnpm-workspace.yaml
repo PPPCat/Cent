@@ -1,4 +1,4 @@
 allowBuilds:
-  - esbuild
-  - "@parcel/watcher"
-  - "@tailwindcss/oxide"
+  esbuild: true
+  "@parcel/watcher": true
+  "@tailwindcss/oxide": true
