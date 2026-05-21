@@ -1,7 +1,4 @@
-packages:
-  - "."
-
-onlyBuiltDependencies:
+allowBuilds:
+  - esbuild
   - "@parcel/watcher"
   - "@tailwindcss/oxide"
-  - esbuild
